@@ -1,5 +1,5 @@
 # DGM4790Node
 
 To Run Locally:
-Run NPM Seed
-Run NPM Start
+1.Run NPM Seed
+2.Run NPM Start
