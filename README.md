@@ -16,7 +16,7 @@ Server URL: https://github.com/QNilsson/DGM4790Node
 
 React URL : https://github.com/QNilsson/RIA
 
-###At least 3 endpoints to GET data
+### At least 3 endpoints to GET data
 
 ```javascript
 recipeRouter.get('/', recipes) //router
@@ -74,7 +74,7 @@ recipeRouter.get('/fast', getFastRecipe)
 
 ```
 
-###At least 1 endpoint to UPDATE using PUT or PATCH
+### At least 1 endpoint to UPDATE using PUT or PATCH
 
 ```javascript
 recipeRouter.put('/update', updateRecipe) //router
@@ -106,7 +106,7 @@ export const updateRecipe = async (req, res) => {
 
 ```
 
-###At least 1 endpoint to CREATE and item via POST 
+### At least 1 endpoint to CREATE and item via POST 
 
 ```javascript
 recipeRouter.post('/', addRecipe)//router
@@ -127,7 +127,7 @@ export const addRecipe = ((req, res) =>{
 })
 ```
 
-###At least 1 endpoint allowing user to delete an item via DELETE
+### At least 1 endpoint allowing user to delete an item via DELETE
 
 ```javascript
 recipeRouter.delete('/delete', deleteRecipe)//router
