@@ -10,7 +10,9 @@
 
 ## Netlify Link:
 https://loving-feynman-6ad039.netlify.app/recipes
-*Currently dont have working backend deployed*:grimacing: :grimacing:
+
+## Heroku Link: 
+https://quinn-node-server.herokuapp.com/recipe
 
 Server URL: https://github.com/QNilsson/DGM4790Node
 
