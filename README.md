@@ -10,7 +10,7 @@
 
 ## Netlify Link:
 https://loving-feynman-6ad039.netlify.app/recipes
-*Currently dont have working backend deployed*:grimacing:
+*Currently dont have working backend deployed*:grimacing: :grimacing:
 
 Server URL: https://github.com/QNilsson/DGM4790Node
 
